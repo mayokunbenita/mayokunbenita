@@ -2,7 +2,7 @@
 #### 👋 Hi, I am Mayokun Benita Alayaki.
  An Accountant with a deep passion for Financial Analysis and a love for turning Data into actionable insights. My background in SQL ,Power BI Microsof Excel and Sage 50 empowers me to find Creative, Logical and Analytical solution to complex financial challenges.  I'm passionate about continous learning and believe in sharing my knowledge to uplift others.
  
-## Skills 
+## 🌱 Skills 
 - #### Data Analysis and Visualisation:
  
   SQL (Querring Data Manipilation, Database Management)
@@ -45,20 +45,32 @@ Creativity and Innovation in Financial Analysis.
  Created a series of Excel financial models to stimulate budgeting and forecasting scenarios.
 
  ## Projects
+ 
  *Sales Performance Analysis for a Retail Store:*
+ 
  Analysed their data to extract key insights on their:
- Top Selling Products, Regional Performance and their Monthly Sales Trend
  
- Analysis on HR data
- Customer Segmentation Analysis for a Subscription Service 
+- Top Selling Products
+- Regional Performance
+- Monthly Sales Trend
  
-- ## 👀interested
-BEsides all I've written above, i love to read on Finance, Investment, Relationship, Marriage, Parenting, Leadership and more
-- ## Skills🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...  i beleieve i continous learning and enjoy sharing from my wealth of Knowledge
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*Customer Segmentation Analysis for a Subscription Service:*
+
+Analysed their data to extract key insights on:
+- customer behaviour towards the subscription
+- Track their subscription Types
+- Identify key insights in theor cancellations and renewals
+ 
+ *Analysis on HR data*
+ 
+## 👀interested
+  Outside work, i love to read on Finance, Investment, Relationship, Marriage, Parenting, Leadership and more
+  I beleieve i continous learning and enjoy sharing from my wealth of Knowledge
+
+## 📫 How to Reach Me 
+- Email: mayokunalayaki@gmail.com
+- linkedin: 
+😄 
 
 <!---
 mayokunbenita/mayokunbenita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
