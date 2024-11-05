@@ -4,7 +4,7 @@
  
 ## Skills 
 - #### Data Analysis and Visualisation:
-- 
+ 
   SQL (Querring Data Manipilation, Database Management)
   
   Power BI (DAX, Building Dashboards and Reports)
@@ -43,6 +43,14 @@ Creativity and Innovation in Financial Analysis.
 
  Designed Power BI Dashboards for personal finance tracking, illustrating my analytical and visualization skills.
  Created a series of Excel financial models to stimulate budgeting and forecasting scenarios.
+
+ ## Projects
+ *Sales Performance Analysis for a Retail Store:*
+ Analysed their data to extract key insights on their:
+ Top Selling Products, Regional Performance and their Monthly Sales Trend
+ 
+ Analysis on HR data
+ Customer Segmentation Analysis for a Subscription Service 
  
 - ## 👀interested
 BEsides all I've written above, i love to read on Finance, Investment, Relationship, Marriage, Parenting, Leadership and more
