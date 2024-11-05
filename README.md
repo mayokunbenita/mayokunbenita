@@ -63,9 +63,9 @@ Analysed their data to extract key insights on:
  
  *Analysis on HR data*
  
-## 👀interested
+## 👀interests
   Outside work, i love to read on Finance, Investment, Relationship, Marriage, Parenting, Leadership and more
-  I beleieve i continous learning and enjoy sharing from my wealth of Knowledge
+  I believe in continous learning and enjoy sharing from my wealth of Wisdom.
 
 ## 📫 How to Reach Me 
 - Email: mayokunalayaki@gmail.com
